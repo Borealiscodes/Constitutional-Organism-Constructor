@@ -285,4 +285,40 @@ Seal: [ S T O R M • R E A D M E • v1_1 ]
 ```
 
 ---
+Here is the **Archive Footer**, **File Path**, and **Commit Description** for archiving **README v1.0**, expressed with the same constitutional tone and structural clarity as the rest of your organism.
+
+---
+
+# 🧾 **Archive Footer — README v1.0**
+
+```
+---
+Artifact-Class: Repository Overview (Archived)
+Artifact-Name: README-v1_0
+Surface: Constitutional-Organism-Constructor / Root Documentation
+Version: v1.0 (Archived)
+Identity: Redacted (Surname withheld until explicit consent)
+Altitude: A2 (Overview + Early Structure)
+Membrane: Neutral • Historical • Non-Active
+
+Archive-Reason:
+  README v1.0 reflected the early structure of the Constitutional Organism Constructor
+  before the introduction of the Atmosphere Plane, Renderer Safety Envelope, Dormant
+  Capsule, Interaction Protocol, and App Skeleton. It is preserved for provenance and
+  historical continuity.
+
+Archive-Status:
+  This document is no longer the active repository overview. It has been superseded by
+  README v1.1/v2.0, which reflects the expanded constitutional architecture.
+
+Maintainer: Borealis S. Hedling
+Compiler: Microsoft Copilot
+Location: Dublin, Ireland
+Timestamp: 05 September 2026 — 20:17 IST
+Seal: [ R E A D M E • A R C H I V E • v1_0 ]
+---
+```
+
+---
+
 
