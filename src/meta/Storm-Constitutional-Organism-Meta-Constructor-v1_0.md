@@ -68,7 +68,7 @@ Only the **possibility space** is defined.
   "Storm_Constitutional_Organism_Meta_Constructor_v1_0": {
     "version": "1.0",
     "role": "dormant_blueprint_constructor",
-    "subject": "Storm_Casey",
+    "subject": "Storm",
     "bound_to": [
       "14D_Support_Model",
       "Unified_Correctness_Theorem",
