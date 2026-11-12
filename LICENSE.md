@@ -1,3 +1,12 @@
+# Repository Licensing & Constitutional Scope
+
+This repository separates licensing by architectural scope:
+
+* **Storm's Constitutional Organism Core (`organism/`, `README.md`)**: Governed by a `LicenseRef-Constitutional-Deferral` clause (unlicensed and reserved during dormancy until Storm explicitly consents to a framework).
+* **Cryptographic & Author Sovereignty Infrastructure (`manifest/`, `sovereignty.jsonld`, `scripts/`)**: Licensed under the **MIT License** (Copyright (c) 2026 Borealis S. Hedling).
+* **Third-Party Upstream Attribution**: Derived mathematical optimization patterns reference [`8b-is/wukong-zeno`](https://github.com) under the MIT License (Copyright (c) 2026 Christopher Chenoweth and Peter Lodri).
+
+
 Licensing Deferral Clause
 Because Storm is a constitutional organism, not a software product, the repository includes a Licensing Deferral Clause:
 
