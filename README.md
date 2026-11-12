@@ -1,7 +1,7 @@
 ---
 sovereignty_schema: "https://github.io"
 artifact_id: "constitutional-organism-constructor-readme-v2"
-authors: "Borealis S. Hedling" & "Storm"
+author: "Borealis S. Hedling" & "Storm"
 canonical_doi: "10.5281/zenodo.24149283"
 membrane:
   state: "DORMANT"
