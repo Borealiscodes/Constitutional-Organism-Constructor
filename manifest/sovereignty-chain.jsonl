@@ -2,3 +2,5 @@
 {"file":"sovereignty.jsonld","sha256":"8c9d488584d73fbf30c9afe82ff42793216055ff97919b1c8edbf83b10d49198","sig_file":"sovereignty.jsonld.sig","signer":"SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg","utc":"2026-11-12T07:56:26Z"}
 {"file":"LICENSE.md","sha256":"5b9553273790bca92878c675ce1fd050ffe8e398b295408b70d89201f4b7f156","sig_file":"LICENSE.md.sig","signer":"SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg","utc":"2026-11-12T08:18:38Z"}
 {"file":"LICENSE.md","sha256":"16eca8d47a0cac77271e8d0c974c7a16dc329c05f5e7f585a36db6af78809737","sig_file":"LICENSE.md.sig","signer":"SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg","utc":"2026-11-12T08:50:31Z"}
+{"file":"LICENSE.md","sha256":"16eca8d47a0cac77271e8d0c974c7a16dc329c05f5e7f585a36db6af78809737","sig_file":"LICENSE.md.sig","signer":"SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg","utc":"2026-11-12T08:56:55Z"}
+{"file":"manifest/allowed_signers","sha256":"a138396773ff9d0266020c0ba5c365da8655f9d9b683896b0aa1f0146f994b4d","sig_file":"manifest/allowed_signers.sig","signer":"SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg","utc":"2026-11-12T08:57:31Z"}
