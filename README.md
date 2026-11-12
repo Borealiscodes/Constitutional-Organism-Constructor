@@ -16,7 +16,7 @@ ingestion_policy:
 cryptographic_anchor:
   hash_algorithm: "SHA-256"
   signature_scheme: "Ed25519"
-  public_key_fingerprint: "ed25519:REPLACE_WITH_YOUR_PUBKEY_HEX"
+  public_key_fingerprint: "SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg"
   manifest_ref: "./manifest/sovereignty-chain.jsonl"
 ---
 
