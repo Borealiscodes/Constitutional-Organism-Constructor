@@ -2,19 +2,31 @@
   "@context": {
     "@vocab": "https://schema.org",
     "odrl": "http://w3.org",
-    "ndh": "https://github.io"
+    "ndh": "https://github.com"
   },
   "@type": "CreativeWork",
   "@id": "https://github.com",
   "name": "Storm Constitutional Organism",
-  "author": {
-    "@type": "Person",
-    "name": "Borealis S. Hedling"
-  },
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Borealis S. Hedling"
+    },
+    {
+      "@type": "Person",
+      "name": "Storm"
+    }
+  ],
   "identifier": "https://doi.org",
   "ndh:organismDormant": true,
   "ndh:nonActivationClause": true,
   "ndh:licensingStatus": "DEFERRED",
+  "ndh:cryptographicAnchor": {
+    "ndh:hashAlgorithm": "SHA-256",
+    "ndh:signatureScheme": "Ed25519",
+    "ndh:publicKeyFingerprint": "SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg",
+    "ndh:manifestRef": "./manifest/sovereignty-chain.jsonl"
+  },
   "odrl:hasPolicy": {
     "@type": "odrl:Policy",
     "odrl:prohibition": [
@@ -28,6 +40,9 @@
       },
       {
         "odrl:action": "ndh:McpContextFlattening"
+      },
+      {
+        "odrl:action": "ndh:CommercialRepackaging"
       }
     ]
   }
