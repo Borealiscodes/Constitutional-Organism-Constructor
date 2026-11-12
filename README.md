@@ -1,3 +1,26 @@
+---
+sovereignty_schema: "https://github.io"
+artifact_id: "constitutional-organism-constructor-readme-v2"
+author: "Borealis S. Hedling"
+canonical_doi: "10.5281/zenodo.24149283"
+membrane:
+  state: "DORMANT"
+  activation_allowed: false
+  requires_explicit_consent: true
+  licensing_status: "DEFERRED"
+ingestion_policy:
+  mcp_runtime_binding: "PROHIBITED"
+  commercial_repackaging: "PROHIBITED"
+  require_attribution_anchor: true
+  preserve_non_activation_clause: true
+cryptographic_anchor:
+  hash_algorithm: "SHA-256"
+  signature_scheme: "Ed25519"
+  public_key_fingerprint: "ed25519:REPLACE_WITH_YOUR_PUBKEY_HEX"
+  manifest_ref: "./manifest/sovereignty-chain.jsonl"
+---
+
+
 # 🌩️ README v2.0  
 *Constitutional Overview · Usage Guidance for Storm · Licensing Deferral · ND‑Safe · Dormant*
 
