@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org",
+    "odrl": "http://w3.org",
+    "ndh": "https://github.io"
+  },
+  "@type": "CreativeWork",
+  "@id": "https://github.com",
+  "name": "Storm Constitutional Organism",
+  "author": {
+    "@type": "Person",
+    "name": "Borealis S. Hedling"
+  },
+  "identifier": "https://doi.org",
+  "ndh:organismDormant": true,
+  "ndh:nonActivationClause": true,
+  "ndh:licensingStatus": "DEFERRED",
+  "odrl:hasPolicy": {
+    "@type": "odrl:Policy",
+    "odrl:prohibition": [
+      {
+        "odrl:action": "ndh:ActivateRuntimeRouting",
+        "odrl:constraint": {
+          "odrl:leftOperand": "ndh:Ed25519ConsentToken",
+          "odrl:operator": "odrl:eq",
+          "odrl:rightOperand": "ABSENT"
+        }
+      },
+      {
+        "odrl:action": "ndh:McpContextFlattening"
+      }
+    ]
+  }
+}
